@@ -1,4 +1,4 @@
-# PlayList_RedesNeuronales
+# PlayList_RedesNeuronalesDeepLearning
 
 *Material del curso que imp*arto sobre Redes Neuronales y Aprendizaje Profundo
 
